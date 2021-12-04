@@ -10,14 +10,13 @@
   <a href="https://discord.gg/SbarTfN75X">
     <img
       alt="Discord"
-      src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
+      src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat"
     />
   </a>
-    <br><br>
   <a href="Git Profile Views">
     <img
       alt="Views"
-      src="https://komarev.com/ghpvc/?username=Seaqn&label=Views&color=0d1117&style=flat&label=Views"
+      src="https://komarev.com/ghpvc/?username=Seaqn&label=Views&color=5865f2&label=Views"
     />
   </a>
 </p>
