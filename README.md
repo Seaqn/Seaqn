@@ -7,16 +7,21 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seaqn&layout=compact&theme=github_dark&hide_border=true"
   />
   <br><br>
+  <a href="https://ko-fi.com/Seaqn">
+    <img
+      alt="Kofi"
+      src="https://i.imgur.com/OWlIkgS.png"
+    />
+  </a>
+  <br><br>
   <a href="https://discord.gg/SbarTfN75X">
     <img
       alt="Discord"
-      src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat"
+      src="https://img.shields.io/badge/Discord-434b57?logo=discord&logoColor=white&style=flat"
     />
   </a>
-  <a href="Git Profile Views">
     <img
-      alt="Views"
-      src="https://komarev.com/ghpvc/?username=Seaqn&label=Views&color=5865f2&label=Views"
+      src="https://komarev.com/ghpvc/?username=Seaqn&label=Views&color=434b57&label=Views"
     />
   </a>
 </p>
