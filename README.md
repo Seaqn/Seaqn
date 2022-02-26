@@ -6,11 +6,17 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seaqn&layout=compact&theme=github_dark&hide_border=true"
   />
+  </a>
   <br><br>
   <a href="https://discord.gg/SbarTfN75X">
     <img
       alt="Discord"
       src="https://img.shields.io/badge/Discord-434b57?logo=discord&logoColor=white&style=flat"
+    />
+  <a href="https://discord.gg/SbarTfN75X">
+    <img
+      alt="Discord"
+      src="https://discordapp.com/api/guilds/887701800965267507/widget.png?style=shield"
     />
   </a>
     <img
