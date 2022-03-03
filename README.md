@@ -37,7 +37,7 @@
 ### GitHub Stats ⚡
 
 <img
-    src="https://github-readme-stats.vercel.app/api?username=Seaqn&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Seaqn%27s+GitHub+Stats&layout=compact"
+    src="https://github-readme-stats.vercel.app/api?username=Seaqn&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Seaqn%27s+Stats&layout=compact"
   />
 </a>
 <img
