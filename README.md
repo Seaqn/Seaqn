@@ -41,9 +41,9 @@
 [<img align="center" alt="Seaqn | GitHub" width="140px" src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />][website]
 <br>
 <br>
-[<img align="center" alt="CASE | Lian Li 011 Dynamic" width="250px" src="https://img.shields.io/badge/Windows-10_PRO-0078D6?style=for-the-badge&logo=windows&logoColor=white" />][WINDOWS]
-[<img align="center" alt="GPU | RTX 2080 Super" width="310px" src="https://img.shields.io/badge/NVIDIA-RTX 2080 SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />][GPU]
-[<img align="center" alt="CPU | Ryzen 9 5900x" width="280px" src="https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />][CPU]
+[<img align="center" alt="CASE | Lian Li 011 Dynamic" width="240px" src="https://img.shields.io/badge/Windows-10_PRO-0078D6?style=for-the-badge&logo=windows&logoColor=white" />][WINDOWS]
+[<img align="center" alt="GPU | RTX 2080 Super" width="300px" src="https://img.shields.io/badge/NVIDIA-RTX 2080 SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />][GPU]
+[<img align="center" alt="CPU | Ryzen 9 5900x" width="270px" src="https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />][CPU]
 
 
 [website]: https://github.com/Seaqn/
