@@ -15,16 +15,9 @@
   <a href="https://github.com/seaqn">
     <img src="https://github-readme-stats.vercel.app/api?username=Seaqn&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Seaqn%27s+Stats&layout=compact"/>
      </a>
-</details>
-<details>
-  <summary><b>🏆&nbsp;&nbsp;My GitHub Trophies</b></summary>
-  <br/>
-  <p align="center"><br>
- <p align="center"><br>
-  <a href="https://github.com/seaqn">
-    <img src="https://github-profile-trophy.vercel.app/?username=Seaqn&theme=nord&margin-w=8&margin-h=8&column=8"/>
-     </a>
-  </p>
+    <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Seaqn&label=Views&color=2e3440&label=Profile Visits"/>
+</p>
 </details>
 <details>
   <summary><b>📊&nbsp;&nbsp;Most Used Languages</b></summary>
@@ -39,17 +32,28 @@
 
 ---
 
-[<img align="center" alt="Seaqn | GitHub" width="50px" src="https://img.icons8.com/fluency/48/000000/github.png" />][website]
-[<img align="center" alt="Seaqn | Steam" width="50px" src="https://img.icons8.com/fluency/48/000000/steam.png" />][steam]
-[<img align="center" alt="Danny Duncen | Reddit" width="50px" src="https://img.icons8.com/stickers/100/000000/reddit.png" />][reddit]
-[<img align="center" alt="SeaqnAU | Twitter" width="50px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
-[<img align="center" alt="SeaqnAU | Twitch" width="50px" src="https://img.icons8.com/color/48/000000/twitch--v2.png" />][twitch]
-[<img align="center" alt="Seaqn | Fortnite" width="50px" src="https://img.icons8.com/color/48/000000/fortnite.png" />][fortnite]
-[<img align="right" alt="Seaqn | Profile Visits" width="300px" src="https://komarev.com/ghpvc/?username=Seaqn&label=Views&color=434b57&label=GitHub Profile Visits" />][website]
+[<img align="center" alt="SeaqnAU | Twitter" width="148px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="center" alt="SeaqnAU | Twitch" width="138px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
+[<img align="center" alt="Seaqn | Spotify" width="143px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<img align="center" alt="Danny Duncen | Reddit" width="133px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
+[<img align="center" alt="Seaqnn | Tiktok" width="135px" src="https://img.shields.io/badge/TikTok-fe2c55?style=for-the-badge&logo=tiktok&logoColor=white" />][tiktok]
+[<img align="center" alt="Seaqn | Steam" width="125px" src="https://img.shields.io/badge/Steam-2a475e?style=for-the-badge&logo=steam&logoColor=white" />][steam]
+[<img align="center" alt="Seaqn | GitHub" width="140px" src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />][website]
+<br>
+<br>
+[<img align="center" alt="CASE | Lian Li 011 Dynamic" width="290px" src="https://img.shields.io/badge/Windows-10_PRO-0078D6?style=for-the-badge&logo=windows&logoColor=white" />][WINDOWS]
+[<img align="center" alt="GPU | RTX 2080 Super" width="360px" src="https://img.shields.io/badge/NVIDIA-RTX 2080 SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />][GPU]
+[<img align="center" alt="CPU | Ryzen 9 5900x" width="330px" src="https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />][CPU]
+
 
 [website]: https://github.com/Seaqn/
 [twitter]: https://twitter.com/SeaqnAU
 [reddit]: https://www.reddit.com/user/DannyDuncen
 [steam]: https://steamcommunity.com/profiles/76561199013832565/
 [twitch]: https://www.twitch.tv/seaqnau
-[fortnite]: https://fortnitetracker.com/profile/all/Se%d0%b0qn
+[spotify]: https://open.spotify.com/user/mjt1x88vsbnhbaj9ctpej6bas?si=5343eca7dfe54aba
+[tiktok]: https://www.tiktok.com/@seaqnn?lang=en
+
+[GPU]: https://www.gigabyte.com/au/Graphics-Card/GV-N208SAORUS-8GC#kf
+[CPU]: https://www.amd.com/en/products/cpu/amd-ryzen-9-5900x
+[WINDOWS]: https://www.microsoft.com/en-au/software-download/windows10
