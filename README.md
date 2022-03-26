@@ -32,13 +32,13 @@
 
 ---
 
-[<img align="center" alt="SeaqnAU | Twitter" width="148px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="center" alt="SeaqnAU | Twitch" width="138px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
-[<img align="center" alt="Seaqn | Spotify" width="143px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
-[<img align="center" alt="Danny Duncen | Reddit" width="133px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
-[<img align="center" alt="Seaqnn | Tiktok" width="135px" src="https://img.shields.io/badge/TikTok-fe2c55?style=for-the-badge&logo=tiktok&logoColor=white" />][tiktok]
-[<img align="center" alt="Seaqn | Steam" width="125px" src="https://img.shields.io/badge/Steam-2a475e?style=for-the-badge&logo=steam&logoColor=white" />][steam]
-[<img align="center" alt="Seaqn | GitHub" width="140px" src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />][website]
+[<img align="center" alt="SeaqnAU | Twitter" width="138px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="center" alt="SeaqnAU | Twitch" width="128px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
+[<img align="center" alt="Seaqn | Spotify" width="133px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
+[<img align="center" alt="Danny Duncen | Reddit" width="123px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
+[<img align="center" alt="Seaqnn | Tiktok" width="125px" src="https://img.shields.io/badge/TikTok-fe2c55?style=for-the-badge&logo=tiktok&logoColor=white" />][tiktok]
+[<img align="center" alt="Seaqn | Steam" width="115px" src="https://img.shields.io/badge/Steam-2a475e?style=for-the-badge&logo=steam&logoColor=white" />][steam]
+[<img align="center" alt="Seaqn | GitHub" width="130px" src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />][website]
 <br>
 <br>
 [<img align="center" alt="CASE | Lian Li 011 Dynamic" width="240px" src="https://img.shields.io/badge/Windows-10_PRO-0078D6?style=for-the-badge&logo=windows&logoColor=white" />][WINDOWS]
