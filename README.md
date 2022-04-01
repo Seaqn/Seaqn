@@ -4,7 +4,7 @@
   <p align="center"><br>
  <p align="center"><br>
   <a href="https://discord.com/users/611115652471717906">
-    <img src="https://lanyard-profile-readme.vercel.app/api/611115652471717906?hideDiscrim=true&bg=2e3440&borderRadius=5px"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/611115652471717906?hideDiscrim=true&bg=0d1117&borderRadius=5px"/>
      </a>
   </p>
 </details>
@@ -13,21 +13,13 @@
   <br/>
   <p align="center"><br>
   <a href="https://github.com/seaqn">
-    <img src="https://github-readme-stats.vercel.app/api?username=Seaqn&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Seaqn%27s+Stats&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Seaqn&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Seaqn%27s+Stats&layout=compact&bg_color=0d1117"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-repo-club&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Seaqn%27s+Top+Languages&layout=compact&bg_color=0d1117"/>
      </a>
     <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Seaqn&label=Views&color=2e3440&label=Profile Visits"/>
+      
+  <img left="1116px" src="https://komarev.com/ghpvc/?username=Seaqn&color=grey&label=Profile Visits&style=for-the-badge"/>
 </p>
-</details>
-<details>
-  <summary><b>📊&nbsp;&nbsp;Most Used Languages</b></summary>
-  <br/>
-  <p align="center"><br>
- <p align="center"><br>
-  <a href="https://github.com/seaqn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-repo-club&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Seaqn%27s+Top+Languages&layout=compact"/>
-     </a>
-  </p>
 </details>
 
 ---
