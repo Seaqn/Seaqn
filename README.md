@@ -1,5 +1,5 @@
 <details>
-  <summary><b>💻&nbsp;&nbsp;My Discord</b></summary>
+  <summary><b>💻&nbsp;&nbsp;Discord</b></summary>
   <br/>
   <p align="center"><br>
  <p align="center"><br>
@@ -9,12 +9,13 @@
   </p>
 </details>
 <details>
-  <summary><b>📈&nbsp;&nbsp;My GitHub Stats</b></summary>
+  <summary><b>📈&nbsp;&nbsp;GitHub Stats</b></summary>
   <br/>
   <p align="center"><br>
   <a href="https://github.com/seaqn">
     <img src="https://github-readme-stats.vercel.app/api?username=Seaqn&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Seaqn%27s+Stats&layout=compact&bg_color=0d1117"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-repo-club&theme=nord&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&custom_title=Seaqn%27s+Top+Languages&layout=compact&bg_color=0d1117"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seaqn&theme=dark&background=0d1117&border=0d1117&ring=6e8aa5&fire=6e8aa5&sideNums=6e8aa5&stroke=0d1117&currStreakLabel=fdfdfd&dates=bdbdbd"/>
      </a>
     <p align="center">
       
