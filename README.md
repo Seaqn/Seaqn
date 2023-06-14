@@ -25,7 +25,7 @@
 
 ---
 
-[<img align="center" alt="SeaqnAU | Twitter" width="65px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="center" alt="Seaqns | Twitter" width="65px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="center" alt="SeaqnAU | Twitch" width="65px" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 [<img align="center" alt="Seaqn | Spotify" width="65px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 [<img align="center" alt="Danny Duncen | Reddit" width="60px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />][reddit]
@@ -37,7 +37,7 @@
 [<img align="center" alt="CPU | Ryzen 9 5900x" width="130px" src="https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />][CPU]
 
 [website]: https://github.com/Seaqn/
-[twitter]: https://twitter.com/SeaqnAU
+[twitter]: https://twitter.com/Seaqns
 [reddit]: https://www.reddit.com/user/DannyDuncen
 [steam]: https://steamcommunity.com/profiles/76561199013832565/
 [twitch]: https://www.twitch.tv/seaqnau
